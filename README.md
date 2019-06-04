@@ -35,7 +35,10 @@ Lewis Carroll, “Alice's Adventures in Wonderland”:
 Заключение: 
 Для перевода Нины Демуровой характерен простой, лаконичный язык, отсутствие излишней описательности. Переводы Заходера и Набокова – русифицированные и более свободные, описательные переводы.
 <p> <img width="70%" src="6demurovsprashjpg" border="3">
+ 
 <p> <img width="70%" src="7nabokovsprash.jpg" border="3">
+ 
 <p> <img width="70%" src="8zakhodersprash.jpg.jpg" border="3">
+ 
 <p> <img width="70%" src="9kerolsprash.jpg" border="3">
 
